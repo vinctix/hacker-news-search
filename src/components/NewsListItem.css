@@ -1,0 +1,7 @@
+.NewsListItem {
+  overflow-x: hidden;
+}
+
+.score {
+  white-space: nowrap;
+}
