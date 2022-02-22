@@ -7,3 +7,15 @@ body {
   overflow-x: hidden;
   max-width: 100%;
 }
+
+.score-s {
+  background-color: rgb(14 165 233);
+}
+
+.score-m {
+  background-color: rgb(249 115 22);
+}
+
+.score-l {
+  background-color: rgb(239 68 68);
+}
